@@ -1,0 +1,5 @@
+Strategy,F1_Score,Exact_Match
+Top-1,49.36,44.0
+Top-3,62.52,56.0
+Top-5,65.52,60.0
+Top-10,68.8,62.0

@@ -1,0 +1,13 @@
+Category,Experiment,Embedding,Top_K,Prompt,Enhancement,F1,EM
+Baseline,Top-10,384-dim,10,simple,None,68.8,62.0
+Enhancement,Combined (Best),384-dim,10→3,simple,Rewrite+Rerank,67.54,62.0
+Enhancement,Reranking,384-dim,10→3,simple,Reranking,67.54,62.0
+Baseline,Top-5 (Best Naive),384-dim,5,simple,None,65.52,60.0
+Enhancement,Query Rewriting,384-dim,5,simple,Query Rewriting,65.52,60.0
+Baseline,Top-3,384-dim,3,simple,None,62.52,56.0
+Embedding Size,768-dim Embedding,768-dim,5,simple,None,58.29603993334162,52.0
+Prompting,Simple Prompt,384-dim,5,simple,None,57.144222437112354,51.0
+Prompting,Instruction Prompt,384-dim,5,instruction,None,55.139431825425206,49.0
+Prompting,Persona Prompt,384-dim,5,persona,None,51.82467658066996,46.0
+Baseline,Top-1,384-dim,1,simple,None,49.36,44.0
+Prompting,Structured Prompt,384-dim,5,structured,None,47.78493299092636,41.0

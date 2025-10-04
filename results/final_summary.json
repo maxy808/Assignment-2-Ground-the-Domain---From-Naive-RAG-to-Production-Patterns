@@ -1,0 +1,26 @@
+{
+  "f1_em_scores": {
+    "naive": {
+      "f1": 65.52,
+      "em": 60.0
+    },
+    "enhanced": {
+      "f1": 67.54,
+      "em": 62.0
+    }
+  },
+  "ragas_scores": {
+    "naive": {
+      "faithfulness": 0.7,
+      "answer_relevancy": 0.807,
+      "context_precision": 0.7244,
+      "context_recall": 0.7667
+    },
+    "enhanced": {
+      "faithfulness": 0.8167,
+      "answer_relevancy": 0.8097,
+      "context_precision": 0.8722,
+      "context_recall": 0.7
+    }
+  }
+}
