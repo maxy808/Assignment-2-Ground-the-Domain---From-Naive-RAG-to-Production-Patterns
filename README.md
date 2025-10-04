@@ -1,7 +1,7 @@
 # RAG System: From Naive Implementation to Production-Ready Enhancements
 
 **Course**: NLX and LLM - Assignment 2  
-**Author**: Christine Ma 
+**Author**: Christine(Xiaoyang) Ma 
 **Date**: October 2025
 
 ## Overview
