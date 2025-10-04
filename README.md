@@ -22,7 +22,6 @@ This project implements a Retrieval-Augmented Generation (RAG) system that answe
 .
 ├── README.md                              # This file
 ├── requirements.txt                       # Dependencies
-├── ai_usage_log.md                       # AI collaboration log
 ├── 01_architecture_document.md           # System design (750 words)
 ├── 02_naive_implementation_report.md     # Baseline results (500 words)
 ├── 03_enhanced_system_analysis.md        # Enhancements (750 words)
